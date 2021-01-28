@@ -4,7 +4,7 @@ public class LearningActivity1 {
 	public static void main(String[] args) 
 	{
 		Calculator c = new Calculator();
-	//	System.out.println("Hello");
+		System.out.println("Hello");
 	}
 
 }
